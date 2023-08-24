@@ -1,4 +1,4 @@
-# [Volt Theme - CtrlPanel.GG]
+# Volt Theme - CtrlPanel.GG
 ![version](https://img.shields.io/badge/production_ready-no-blue)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
